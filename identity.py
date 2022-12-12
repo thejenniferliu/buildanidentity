@@ -1,3 +1,11 @@
+on_the_menu = {'1': {'name': 'IQ', 'price': 100},
+               '2': {'name': 'confidence', 'price': 0},
+               '3': {'name': 'sense of humor','price': 200 },
+               '4': {'name': 'athletic ability', 'price': 150},
+               '5': {'name': 'group of friends','price': 1000}
+    
+}
+
 final_form = {}
 
 def build_an_identity():
